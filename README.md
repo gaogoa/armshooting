@@ -10,17 +10,29 @@ See [this site](http://wiki.stm32duino.com/index.php?title=Main_Page).
 
 ## Hardware
 
+### Photos
+
+<p>
+<img src="https://i.imgur.com/n6X9Nu8.jpg" height="180">
+<img src="https://i.imgur.com/n6X9Nu8.jpg" height="180">
+<img src="https://i.imgur.com/I1A6tYi.jpg" height="180">
+<img src="https://i.imgur.com/Fph37qQ.jpg" height="180">
+<img src="https://i.imgur.com/7RsKZad.jpg" height="180">
+<img src="https://i.imgur.com/QC5zzEq.jpg" height="180">
+<img src="https://i.imgur.com/uCqHb04.jpg" height="180">
+</p>
+
 ### Parts
 
 |Name|Description|
 |----|------|
-|LCD|Color LCD module TJC-9341-032(chip:ILI9341)|
-|CPU|STM32F103C8T6 CPU Board(Blue Pill)|
+|LCD|Color LCD module TJC-9341-032. <br> Internal chip:ILI9341.|
+|CPU|STM32F103C8T6 CPU Board. <br> I do not know if it completely matches the board called 'Blue Pill', <br> but I think it's pretty close.|
 |SW_FIRE|Push button|
 |SW_RIGHT|Push button|
 |SW_LEFT|Push button|
-|VREG|Series regulator(5V to 3.3V)(require capacitor 47uF)|
-|R1|USB D+ pullup register, 3.3K Ohm|
+|VREG|Series regulator(5V to 3.3V)|
+|R1|USB D+ pullup register, 3.3K Ohm <br> 3.3K is not an ideal value, I just used the thing in the tool box.|
 |C1|Polarized capacitor 47uF|
 |C2|Polarized capacitor 47uF|
 |C3|Ceramic capacitor 0.1uF|
