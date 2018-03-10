@@ -39,6 +39,10 @@ See [this site](http://wiki.stm32duino.com/index.php?title=Main_Page).
 
 ### Circuit
 
+<p>
+<img src="https://i.imgur.com/HOTCeMI.png" height="320">
+</p>
+
 Regulator generates 3.3V from USB +5V.
 
 LCD board operates at 3.3V. (Signal line is also 3.3V level)
