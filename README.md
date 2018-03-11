@@ -40,7 +40,7 @@ See [this site](http://wiki.stm32duino.com/index.php?title=Main_Page).
 ### Circuit
 
 <p>
-<img src="https://i.imgur.com/HOTCeMI.png" height="320">
+<img src="https://i.imgur.com/GVmAYB8.png" height="320">
 </p>
 
 Regulator generates 3.3V from USB +5V.
